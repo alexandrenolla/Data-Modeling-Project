@@ -8,10 +8,17 @@ Objetivos do Banco de Dados:
 Fases do Projeto:
 
 •	Levantamento dos Requisitos
+
 •	Identificação de Entidades e Relacionamentos
+
 •	Modelo E-R
+
 •	Diagrama E-R
+
 •	Dicionário de Dados
+
 •	Normalização
+
 •	Implementação
+
 •	Testes Básicos
