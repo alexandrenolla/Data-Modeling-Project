@@ -11,8 +11,6 @@ Fases do Projeto:
 
 •	Identificação de Entidades e Relacionamentos
 
-•	Modelo E-R
-
 •	Diagrama E-R
 
 •	Dicionário de Dados
